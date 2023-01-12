@@ -1,5 +1,5 @@
 export default class {
     hello() {
-        trace(`Hello World!`);
+        trace(`Hello World from GitHub!`);
     }
 }
